@@ -33,11 +33,8 @@ h1{
     width: 250;
 }
 footer {
-    background-color: rgb(134, 128, 128);
+    background-color: rgb(206, 203, 203);
 	border-top: 2px solid #d1d1d1;
-	padding-top: 30px;
-	margin-top: 15px;
-    padding: 70px 0;
 }
 ul{
     list-style: none;
@@ -50,7 +47,11 @@ ul{
     max-width: 1170px;
     margin: auto;
 }
-
+.icons{
+    display: inline-block;
+    list-style: none;
+    
+}
 
 
 
